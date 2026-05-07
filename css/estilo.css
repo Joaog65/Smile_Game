@@ -23,6 +23,7 @@
     border: 15px solid rgb(0, 17, 255);
     padding: 10px;
     margin: 20px;
+    
   }
   .errou {
     text-align: center;
@@ -34,4 +35,6 @@
     border: 15px solid rgb(255, 0, 170);
     padding: 10px;
     margin: 20px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNwk8h7Dr3z_GqXizLgH0SvoAjbjeQb0gKw&s");
+    background-size: cover;
   }
